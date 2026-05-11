@@ -1,0 +1,1 @@
+obj-y += dmabuf_manager.o

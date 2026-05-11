@@ -1,0 +1,40 @@
+# 编译文件
+*.o
+*.a
+*.so
+*.out
+*.exe
+*.d
+
+# CMake / Make
+build/
+cmake-build-*/
+
+# VSCode
+.vscode/
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+*.cache
+
+# Linux
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# RKNN
+*.rknn
+
+# FFmpeg生成
+*.mp4
+*.avi
+*.h264
+
+# 系统文件
+.DS_Store
+Thumbs.db
